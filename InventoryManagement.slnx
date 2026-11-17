@@ -1,0 +1,10 @@
+<Solution>
+  <Project Path="WebAPI/WebAPI.csproj" />
+  <Project Path="Business/Business.csproj" />
+  <Project Path="DataAccess/DataAccess.csproj" />
+  <Project Path="Entities/Entities.csproj" />
+  <Project Path="Tests/Tests.csproj" />
+  <Project Path="Tools/AdminProvisioning/AdminProvisioning.csproj" />
+  <Project Path="Tools/AccountProvisioning/AccountProvisioning.csproj" />
+  <Project Path="Tools/DemoInventory/DemoInventory.csproj" />
+</Solution>

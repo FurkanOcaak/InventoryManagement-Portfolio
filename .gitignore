@@ -1,0 +1,28 @@
+# Local environment files
+.env
+.env.*
+!.env.example
+
+# Local dev secrets
+secrets/
+*.pfx
+*.pem
+*.key
+
+# OS and IDE
+.vs/
+bin/
+obj/
+
+*.csproj.user
+
+# Database backups, local reports and diagnostic artifacts
+*.bak
+*.trn
+*.mdf
+*.ldf
+*.log
+*.trx
+TestResults/
+artifacts/
+PACKAGE-*-REPORT.md
